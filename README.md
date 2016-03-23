@@ -5,16 +5,16 @@ All clients of AIOPLACE are subject to the following terms of service:
 <h3>Indemnification Policy</h3>
 You agree to use all AIOPLACE services and facilities at your own risk.
 AIOPLACE specifically disclaims all warranties of merchantability and fitness for a particular purpose.
-In no event shall AIOPLACE be liable for any loss, or loss of data, or other commercial damage, including but not limited to special, incidental, consequential or other damages.
-Customer agrees that it shall defend, indemnify, save and hold AIOPLACE harmless from any and all demands, liabilities, losses, costs and claims,
+In no event shallÂ AIOPLACE be liable for any loss, or loss of data, or other commercial damage, including but not limited to special, incidental, consequential or other damages.
+Customer agrees that it shall defend, indemnify, save and holdÂ AIOPLACE harmless from any and all demands, liabilities, losses, costs and claims,
 including reasonable attorney's fees asserted against AIOPLACE, its agents, its customers, officers and employees,
 that may arise or result from any service provided or performed or agreed to be performed or any product sold by customer,
-it's agents, employees or assigns. Customer agrees to defend, indemnify and hold harmless AIOPLACE against liabilities arising out of
+it's agents, employees or assigns. Customer agrees to defend, indemnify and hold harmlessÂ AIOPLACE against liabilities arising out of
 Any injury to person or property caused by any products sold or otherwise distributed in connection with AIOPLACE's server.
 
-AIOPLACE reserves the right to intervene with any of the sites hosted on its servers in the interest of its customers.
+AIOPLACEÂ reserves the right to intervene with any of the sites hosted on its servers in the interest of its customers.
 Any material supplied by customer infringing or allegedly infringing on the proprietary rights of a third party Copyright infringement
-any defective products sold to customer from AIOPLACE's server. AIOPLACE shall be the sole judge of what violates this Policy.
+any defective products sold to customer from AIOPLACE's server.Â AIOPLACE shall be the sole judge of what violates this Policy.
 
 &nbsp;
 <h3>Billing:</h3>
@@ -35,13 +35,13 @@ You will receive an email reminder 5 days till deactivation.
 
 &nbsp;
 <h3>Acceptable Use Policy:</h3>
-All services provided by AIOPLACE may be used for lawful purposes only.
+All services provided byÂ AIOPLACE may be used for lawful purposes only.
 Transmission, storage, or presentation of any information, data or material in violation of any United Kingdom Polices,
 State or City law is prohibited. This includes, but is not limited to: copyrighted material, material we judge to be threatening or obscene,
 or material protected by trade secret and other statute. The subscriber agrees to indemnify and hold harmless AIOPLACE and its employees
 from any claims resulting from the use of the service which damages the subscriber or any other party. Our acceptable use policy is actively and
 strictly enforced. Offending content or users are suspended from our network, usually as soon as they are discovered, although we will always inform
-you when and why any action has been taken. Pornography is prohibited on all AIOPLACE servers. This includes sites that include sexually explicit or
+you when and why any action has been taken. Pornography is prohibited on allÂ AIOPLACE servers. This includes sites that include sexually explicit or
 hardcore images and/or advertising.
 
 Subscriber acknowledges that the service provided is of such a nature that service can be interrupted for many reasons other than
@@ -83,19 +83,19 @@ Reasons for banning them include adverse effects on server load, invitations to 
 
 &nbsp;
 <h3>LIMITATION OF LIABILITY:</h3>
-AIOPLACE shall not be responsible for any claimed damages, including incidental and consequential damages,
-which may arise from AIOPLACE servers going off-line or being unavailable for any reason whatsoever.
-Furthermore, AIOPLACE shall not be responsible for any claimed damages, including incidental or consequential damages,
-resulting from the corruption or deletion of any web site from one of AIOPLACE servers. All damages shall be limited to
+AIOPLACEÂ shall not be responsible for any claimed damages, including incidental and consequential damages,
+which may arise fromÂ AIOPLACE servers going off-line or being unavailable for any reason whatsoever.
+Furthermore,Â AIOPLACE shall not be responsible for any claimed damages, including incidental or consequential damages,
+resulting from the corruption or deletion of any web site from one ofÂ AIOPLACE servers. All damages shall be limited to
 the immediate termination of service.
 
 &nbsp;
 <h3>DISCLAIMER:</h3>
-AIOPLACE cannot be held liable for system downtime, crashes, or data loss.
+AIOPLACEÂ cannot be held liable for system downtime, crashes, or data loss.
 We cannot be held liable for any predicted estimate of profits in which a client would have gained
-if their site was functioning. Certain services provided by AIOPLACE are resold.
-Thus, certain equipment, routing, software, and programming used by AIOPLACE are not directly owned
-or written by AIOPLACE. Moreover, AIOPLACE holds no responsibility for the use of our clients accounts.
+if their site was functioning. Certain services provided byÂ AIOPLACE are resold.
+Thus, certain equipment, routing, software, and programming used byÂ AIOPLACE are not directly owned
+or written by AIOPLACE. Moreover,Â AIOPLACE holds no responsibility for the use of our clients accounts.
 If any terms or conditions are failed to be followed, the account in question will be automatically deactivated.
-We reserve the right to remove any account without advanced notice for any reason without restitution as AIOPLACE sees fit.
-FURTHERMORE, AIOPLACE retains the right to change any or all of the above Policies, Guidelines, and Disclaimer without notification.
+We reserve the right to remove any account without advanced notice for any reason without restitution asÂ AIOPLACE sees fit.
+FURTHERMORE,Â AIOPLACE retains the right to change any or all of the above Policies, Guidelines, and Disclaimer without notification.
